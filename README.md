@@ -35,12 +35,7 @@ Users can dynamically filter the dashboard by:
 - Chart Formatting & Visualization Techniques  
 
 ---
-
-## 📂 File Structure
-Dasbbords.xlsx
-├── Pivot Table # Contains data model & pivot tables
-└── Dashboards # Main interactive dashboard
-
+![Dashboard Screenshot](https://github.com/ha2005ya/Excel-Sales-Analytics-Dashboard/blob/main/BOOOK.xlsx%20-%20Excel%2010_12_2025%2011_09_32.png)
 
 ---
 
